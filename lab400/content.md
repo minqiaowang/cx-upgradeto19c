@@ -304,6 +304,3 @@ PL/SQL procedure successfully completed.
 
 Your database is now migrated to a new $ORACLE_HOME and upgraded.
 
-## Acknowledgements ##
-
-- Author - Robert Pastijn, DB Dev Product Management, PTS EMEA - March 2020

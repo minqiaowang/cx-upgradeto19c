@@ -101,9 +101,7 @@ You are allowed to add your own public key to the `authorized_keys` file in the 
 	- If one lab is executing the upgrade, you can start another Lab if you want to
 	- Every Lab has its own instances and versions so even the upgrade can run in parallel
 
-## Acknowledgements ##
 
-- **Author** - Robert Pastijn, Database Product Management, PTS EMEA - April 2020
 
 
 

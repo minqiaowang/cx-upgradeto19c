@@ -340,6 +340,3 @@ The result should be this:
 
 The migration seems to be successful.
 
-## Acknowledgements ##
-
-- Author - Robert Pastijn, DB Dev Product Management, PTS EMEA - March 2020
