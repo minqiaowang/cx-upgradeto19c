@@ -443,3 +443,6 @@ VERSION
 ````
 The autoupgrade tool was successful. You can check the logfiles for details regarding this upgrade if you want to.
 
+## Acknowledgements ##
+
+- **Author** - Robert Pastijn, DB Dev Product Management, PTS EMEA - April 2020

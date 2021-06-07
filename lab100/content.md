@@ -236,5 +236,8 @@ $ <copy>sudo sed -i 's/:N/:Y/' /etc/oratab</copy>
 
 Your container database and your environment is now ready for the Hands-On labs.
 
+## Acknowledgements ##
 
+- **Author** - Robert Pastijn, Database Product Management, PTS EMEA - initial version March 2019
+- **Migrated to Github** - Robert Pastijn, Database Product Management, PTS EMEA - April 2020
 

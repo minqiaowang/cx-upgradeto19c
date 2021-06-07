@@ -35,6 +35,12 @@
             "description":"Upgrade using unplugging a PDB from the old version and plug it into a new version",
             "publisheddate": "03/20/2020",
             "filename":"./lab400/content.md"
+        },
+        {
+            "title": "Lab 5: MV2ADB to 19c ADB",
+            "description":"Upgrade to 19c on Oracle Autonomous Database cloud using MV2ADB",
+            "publisheddate": "03/20/2020",
+            "filename":"./lab500/content.md"
         }
     ]
 }
