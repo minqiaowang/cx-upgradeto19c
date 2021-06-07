@@ -5,13 +5,13 @@
             "title": "Workshop Overview",
             "description":"Workhop Overview",
             "publisheddate": "01/15/2020",
-            "filename":"../../about-the-workshop/content.md"
+            "filename":"../../about-the-workshop/about-the-workshop.md"
         },
         {
             "title": "Lab 0: Connect to HOL image",
             "description":"Setup the Lab Environment",
             "publisheddate": "03/20/2020",
-            "filename":"../../lab000/content.md"
+            "filename":"../../lab000/lab000.md"
         },
         {
             "title": "Lab 1: Create 19c target",

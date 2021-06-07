@@ -1,10 +1,10 @@
 # Upgrade to 19c Hands-On-Lab (HOL) #
 
-## Workshop Overview ##
+## Workshop Overview
 
-**19c Database** is the current version that Oracle promotes to customers and partners as the version to upgrade to. Oracle 19c is the long term support version and will be supported for at least 4 years after the initial release. After this, Extended support and Sustaining support will be available.
+**19c Database** is the current version that Oracle promotes to customers and partners as the version to upgrade to. Oracle 19c is the long term support version and will be supported for at least 5 years after the initial release. After this, Extended support and Sustaining support will be available.
 
-This hands-on workshop focuses on **Upgrading your environment to 19c** demonstrating 4 scenarios that you can use (both on-premise and in the cloud) to upgrade your environment to 19c in a Container/Multitenant setup.
+This hands-on workshop focuses on **Upgrading your environment to 19c** demonstrating 3 scenarios that you can use to upgrade your environment to 19c in a Container/Multitenant setup.
 
 ## Workshop Requirements
 
